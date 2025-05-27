@@ -1,6 +1,6 @@
 # Sentiment Analyzer
 
-This is a simple AI project that uses machine learning (Naive Bayes) to classify sentences as **positive** or **negative** in sentiment.
+This is a simple AI project that uses machine learning (Naive Bayes) to classify sentences as **positive** or **negative** in sentiment(mainly to classify reviews on a product or service).
 
 I also had some help from Chat-GPT to create some statements to classify them and to debug the code.
 
